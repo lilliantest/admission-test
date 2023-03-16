@@ -1,0 +1,22 @@
+Ｑ:What is Git and why is it use?
+Ans:Git是一個版本控制的系統，使用他可以清楚的記錄每個檔案是誰在什麼時候加進來、什麼時候被修改或刪除
+
+Q:What is the difference between List, Dictionary, Tuple and Set in Python?
+Ans:
+List[]:
+-可儲存序列資料(可儲不同型別的資料)
+-可更改資料
+-允許重複
+Dictionary{}:
+-key-map的形式,用 index 來選擇項目，須宣告key鍵值來對應儲存的值,使用大括號宣告字典即可
+-無序號
+-不可重複
+List 通常用在東西是有順序的，Dict 通常用在可以被搜尋的
+Tuple():類似於 list 串列，但tuple 給定元素後不能改變
+-有序列
+-不可更改資料
+-允許重複
+Set:內容元素都必須是獨一無二的
+-無序號
+-不可重複
+-無
